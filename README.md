@@ -45,5 +45,5 @@ const myWorkLife = {
 </details> 
 
 ### Shoutouts
-Got to give credit to [Sagar Viradiya](https://github.com/sagar-viradiya) for the awesome visitor counter he created. 
+Got to give credit to [Sagar Viradiya](https://github.com/sagar-viradiya) for the awesome visitor counter he created. <br>
 And [Mathías Wismann](https://github.com/mwismann) for letting me use his LinkedIn logo asset without his consent.
