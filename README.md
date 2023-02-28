@@ -7,10 +7,10 @@ Thank you for adding your view to my counter. 👀
 </p>
 
 ### About *Moi*
-Our tale begins at the end of a century, with a boy born in Mexico, but raised in the U.S., who is now living back in Mexico *(I know it's confusing, but trust me it's part of the character development)*. *"ahem"* Anyway, he attended the Technological University of a state that doesn't exist to most, named [Tlaxcala](https://www.google.com/search?q=Did+you+mean%3F+non+existent&rlz=1C1ONGR_esMX1018MX1019&sxsrf=AJOqlzVUfog5PbN2myqnD4XVW0-0EMu5_A%3A1677537342766&ei=PjD9Y9KvLoCNur8P_Iub2A4&ved=0ahUKEwjSxqbL4bb9AhWAhu4BHfzFBusQ4dUDCA8&uact=5&oq=Did+you+mean%3F+non+existent&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzoECCEQFToGCAAQCBAeOgUIABCiBDoKCAAQ8QQQHhCiBEoECEEYAFDzEFjtvgNgm9gDaAFwAXgAgAHSAogB1gmSAQcyLjYuMC4xmAEAoAEBwAEB&sclient=gws-wiz-serp). While studying there he embraced the spider's art of web development 🕸, and.. *and... I don't know, story telling is definitely not my strong suit. I'll tell you what is my strong suit,* **web development.**
+Our tale begins at the end of a century, with a boy born in Mexico, but raised in the U.S., who is now living back in Mexico *(I know it's confusing, but trust me it's part of the character development)*. *"Ahem"* Anyway, he attended the Technological University of a state that doesn't exist to most, named [Tlaxcala](https://www.google.com/search?q=Did+you+mean%3F+non+existent&rlz=1C1ONGR_esMX1018MX1019&sxsrf=AJOqlzVUfog5PbN2myqnD4XVW0-0EMu5_A%3A1677537342766&ei=PjD9Y9KvLoCNur8P_Iub2A4&ved=0ahUKEwjSxqbL4bb9AhWAhu4BHfzFBusQ4dUDCA8&uact=5&oq=Did+you+mean%3F+non+existent&gs_lcp=Cgxnd3Mtd2l6LXNlcnAQAzIECCMQJzoECCEQFToGCAAQCBAeOgUIABCiBDoKCAAQ8QQQHhCiBEoECEEYAFDzEFjtvgNgm9gDaAFwAXgAgAHSAogB1gmSAQcyLjYuMC4xmAEAoAEBwAEB&sclient=gws-wiz-serp). While studying there, he embraced the spider's art of web development 🕸, and... *and... I don't know, story telling is definitely not my strong suit. I'll tell you what is my strong suit,* **web development.**
 <br> <br>
-I've worked with JavaScript for over **2 years now** and I'm still learning new things everyday. Also, there are a couple of little secrets I've hidden over this .md file, see if you can find them all. <br>
-Hint: Some are actually hidden.
+I've worked with JavaScript for over **2 years now**, and I'm still learning new things every day. Also, there are a couple of little secrets I've hidden over this .md file, see if you can find them all. <br>
+**Hint:** *Some are actually hidden.*
 
 
 ### Some insight into my current work life 
@@ -18,15 +18,14 @@ Hint: Some are actually hidden.
 const myWorkLife = {
   currentProject: '[To-Do list](https://github.com/jlvFlores/To-Do-list)',
   currentLearning: ['ES6', 'Webpack'],
-  collaborationOpportunities: 'looking to collaborate on any JavaScript activities',
-  needHelpWith: 'mapping in JavaScript', 🙏
+  collaborationOpportunities: 'Looking to collaborate on any JavaScript activities',
+  needHelpWith: 'Mapping in JavaScript', 🙏
 }
 ```
 ### Some insight about me
 
 - 💬 Ask me about the meaning of life. \*cough cough\* *42*
-- ⚡ Fun fact: I'm not on anything illegal this is just how I am when I'm bored. 
-
+- ⚡ **Fun fact:** I'm not on anything, this is just how I am when I'm bored. 
 
 ### You can reach out to me through
 
