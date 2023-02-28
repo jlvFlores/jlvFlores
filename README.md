@@ -17,7 +17,7 @@ I've worked with JavaScript for over **2 years now**, and I'm still learning new
 ```javascript
 const myWorkLife = {
   currentProject: 'To-Do_list',
-  projectLink 'https://github.com/jlvFlores/To-Do-list'
+  projectLink: 'https://github.com/jlvFlores/To-Do-list',
   currentLearning: ['ES6', 'Webpack'],
   collaborationOpportunities: 'Looking to collaborate on any JavaScript activities',
   needHelpWith: 'Mapping in JavaScript', 🙏
